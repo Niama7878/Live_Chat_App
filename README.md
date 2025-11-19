@@ -171,3 +171,8 @@ config.json
 * 若直播页面脚本失效（如 YouTube UI 变动），嵌入后可能不会自动隐藏导航栏，需要更新 JS。
 * B站播放器依赖登录状态，必须提供有效 `SESSDATA`。
 * 程序关闭后会自动关闭 Chrome driver。
+
+## 📽️ 视频教程
+
+* [YouTube](https://youtu.be/7R8VY9F9h-s)
+* [Bilibili](https://www.bilibili.com/video/BV1dPyJB4EDU)
